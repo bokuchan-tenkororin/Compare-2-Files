@@ -216,4 +216,7 @@
 
 ---
 
-*本仕様書は `Compare-2-Files.html`（v1.0.0）の実装に基づき作成されています。*
+【YouTube解説動画】  
+日本語版：https://youtu.be/lAuPEskeguU  
+英語版：https://youtu.be/XH3uGhMjUs0  
+
